@@ -1,0 +1,26 @@
+[
+    {
+        "question": "¿Qué color predomina en el logo de mi página web?",
+        "options": [
+            { "text": "Negro", "correct": false },
+            { "text": "Verde", "correct": true },
+            { "text": "Azul", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Cuál es mi profesión?",
+        "options": [
+            { "text": "Pintor", "correct": false },
+            { "text": "Electrónico", "correct": false },
+            { "text": "Desarrollador de Software", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Te ha gustado mi página?",
+        "options": [
+            { "text": "...", "correct": false },
+            { "text": "Siempre se puede mejorar", "correct": true },
+            { "text": "Es perfecta", "correct": false }
+        ]
+    }
+]
